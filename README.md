@@ -26,7 +26,7 @@ Gemini Flash is Google's AI model specifically designed for image editing and mo
 3. Replace `YOUR_API_KEY_HERE` in `ContentView.swift` with your actual Gemini API key
 4. Build and run the application
 
-**Note:** This project has no external package dependencies - you only need a Gemini API key to get started.
+## Note: This project has no external package dependencies - you only need a Gemini API key to get started.
 
 ## Running the Demo
 
