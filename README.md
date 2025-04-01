@@ -24,6 +24,8 @@ Gemini Flash is Google's AI model specifically designed for image editing and mo
 3. Replace `YOUR_API_KEY_HERE` in `ContentView.swift` with your actual Gemini API key
 4. Build and run the application
 
+**Note:** This project has no external package dependencies - you only need a Gemini API key to get started.
+
 ## Usage
 
 1. Launch the application
@@ -33,18 +35,9 @@ Gemini Flash is Google's AI model specifically designed for image editing and mo
 5. Wait for Gemini Flash to process and modify your image
 6. The edited image will appear below the input field
 
-## Features Breakdown
-
-### User Interface
-- Multi-line text input for detailed prompts
-- Loading indicator during image generation
-- Error message display
-- Responsive image display with scaling and shadow effects
-- Disabled state for the generate button during processing
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.MD](LICENSE.MD) file for details.
+This project is licensed under the MIT License
 
 ## Acknowledgments
 
