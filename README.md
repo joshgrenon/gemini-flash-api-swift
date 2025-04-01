@@ -2,6 +2,8 @@
 
 A SwiftUI-based iOS application that demonstrates image editing and modification using Google's Gemini Flash AI. This application provides a simple and intuitive interface for users to transform and edit their images using AI, guided by text prompts.
 
+**Note: For now, you can simply drop the GeminiAPIService file into your own Xcode projects to use it. I'll consider converting this to a Swift Package Manager package if more people want to use it that way.**
+
 ## ⚠️ Disclaimer
 
 **This is test/demo code only.** This implementation could stop working at any time if the Gemini API changes. This is not intended for production use and is provided as-is without any guarantees.
